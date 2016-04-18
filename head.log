@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.23)  30 MAR 2016 01:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.23)  18 APR 2016 14:39
 entering extended mode
 **head.tex
-("C:\Users\Neda\Dropbox\media streaming\head.tex"
+(C:\Users\Neda\Documents\GitHub\Video-Streaming\head.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -115,7 +115,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-("C:\Users\Neda\Dropbox\media streaming\head.aux")
+(C:\Users\Neda\Documents\GitHub\Video-Streaming\head.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -181,21 +181,22 @@ Package pdftex.def Info: ./spectrum-eps-converted-to.pdf used on input line 31.
 (pdftex.def)             Requested size: 182.11769pt x 163.81534pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Neda/Dropbox/med
-ia streaming/spectrum-eps-converted-to.pdf>] [2] ("C:\Users\Neda\Dropbox\media 
-streaming\head.aux") ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Neda/Documents/G
+itHub/Video-Streaming/spectrum-eps-converted-to.pdf>] [2] (C:\Users\Neda\Docume
+nts\GitHub\Video-Streaming\head.aux) ) 
 Here is how much of TeX's memory you used:
  1525 strings out of 493921
- 21805 string characters out of 3147285
+ 21868 string characters out of 3147285
  75078 words of memory out of 3000000
  4825 multiletter control sequences out of 15000+200000
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  42i,6n,23p,496b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on head.pdf (2 pages, 118584 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr17.pfb>
+Output written on head.pdf (2 pages, 118589 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
